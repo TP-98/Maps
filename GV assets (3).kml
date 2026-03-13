@@ -3,104 +3,11 @@
   <Document>
     <name>GV assets</name>
     <description/>
-    <Style id="icon-1899-DB4436-normal">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1899-DB4436-highlight">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-DB4436">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Folder>
-      <name>Layer 1</name>
-      <Placemark>
-        <name>Bratianu Business Center</name>
-        <description>Office</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            26.1029338,44.4335063,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Corner Office Building</name>
-        <description>Office</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            26.1065745,44.478661,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Constanta Retail Park</name>
-        <description>Retail Park</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            28.6132633,44.1181457,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Oradea Retail Park</name>
-        <description>Retail - ATAC by Auchan</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            21.9627483,47.0277403,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>GV Tower</name>
-        <description>Office</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            26.0889226,44.4644844,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Craiova Industrial Park</name>
-        <description>Industrial - Diehl Aviation Faciltiy</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            23.6926204,44.4282643,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
+    <NetworkLink>
+      <name>GV assets</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1UZjuVO3wMDx4_yQm75tnuy3kpwFVe44]]></href>
+      </Link>
+    </NetworkLink>
   </Document>
 </kml>
