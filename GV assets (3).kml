@@ -3,11 +3,129 @@
   <Document>
     <name>GV assets</name>
     <description/>
-    <NetworkLink>
-      <name>GV assets</name>
-      <Link>
-        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1UZjuVO3wMDx4_yQm75tnuy3kpwFVe44]]></href>
-      </Link>
-    </NetworkLink>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Layer 1</name>
+      <Placemark>
+        <name>Bratianu Business Center</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5k_mpQsBf1JHn79YylEow_7rNi6nahe8V3Un9KY_lhYz1JZ_FTJr1SJR-0hfi6B5NbGc6hxbApwWRGfWdrGCiG_xZXO0tdyJ5YH-VMo6ilaMsg76X9vWwPStMuXcwlBMOPcZ4VzEFQxR7mYJkwb5cSIRUaVM3pAVhpqzragYr8hTC2umW9gwoCRHKwD9P0qORqsjgrD816mFvxdKumkQoowHmsRiOup7D8kL9VdE7KOzf--Ca_hRNyvwE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Office]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5k_mpQsBf1JHn79YylEow_7rNi6nahe8V3Un9KY_lhYz1JZ_FTJr1SJR-0hfi6B5NbGc6hxbApwWRGfWdrGCiG_xZXO0tdyJ5YH-VMo6ilaMsg76X9vWwPStMuXcwlBMOPcZ4VzEFQxR7mYJkwb5cSIRUaVM3pAVhpqzragYr8hTC2umW9gwoCRHKwD9P0qORqsjgrD816mFvxdKumkQoowHmsRiOup7D8kL9VdE7KOzf--Ca_hRNyvwE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.1029338,44.4335063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corner Office Building</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Utrox2shxvdTQ5Mb0qwPMTsOZFAyycofTqU9Um-u3TyMmqhHlLVlDzhjjRQ8nlKHQIe-CBCMzNmzDtwqGs2KVEhKelr-Y3Nqj34JJuAv9coJ6SUcjYDW2haND7xGQ3K28m_ziokidUs6R5-8O58c29y3Z8gb-59DFviGhaKL_qHIQ08usPeujleQ5g8OigxQVb7DnxQegmW7Pi6OThzeIqMHSMDkavFt4mxcTb09wJtXmYo8qHYuDCGU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Office]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Utrox2shxvdTQ5Mb0qwPMTsOZFAyycofTqU9Um-u3TyMmqhHlLVlDzhjjRQ8nlKHQIe-CBCMzNmzDtwqGs2KVEhKelr-Y3Nqj34JJuAv9coJ6SUcjYDW2haND7xGQ3K28m_ziokidUs6R5-8O58c29y3Z8gb-59DFviGhaKL_qHIQ08usPeujleQ5g8OigxQVb7DnxQegmW7Pi6OThzeIqMHSMDkavFt4mxcTb09wJtXmYo8qHYuDCGU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.1065745,44.478661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Constanta Retail Park</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X665AhE59Q2W1WLzziptYs_QzthgBJgOCmC10npsGVmpEwOBGq0NfDRmdbPNRsKGnoSHhDFWirIA1e26pSagl1gcqn851GBXASwG875ovZ6H1JKpc2RywfYuRw141-ng1wJbg21Z0O2JxXzrA4SDCYclYS3CDGBVpwaVtY3fXJ2_mv5HZ02HS1cUQjI98-Mpur3SMJwJFGN_KbuoRZSEJZiv9d5tGAJFosK6m7ssDUAFOD9Fj9KBjTBUZw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Retail Park]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X665AhE59Q2W1WLzziptYs_QzthgBJgOCmC10npsGVmpEwOBGq0NfDRmdbPNRsKGnoSHhDFWirIA1e26pSagl1gcqn851GBXASwG875ovZ6H1JKpc2RywfYuRw141-ng1wJbg21Z0O2JxXzrA4SDCYclYS3CDGBVpwaVtY3fXJ2_mv5HZ02HS1cUQjI98-Mpur3SMJwJFGN_KbuoRZSEJZiv9d5tGAJFosK6m7ssDUAFOD9Fj9KBjTBUZw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.6132633,44.1181457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oradea Retail Park</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5e3Rprv7PRpJldNmWxlt3bKVzChHCZ4sD64zA9suNBoJCRdOqbW7E9oCiHmSWWWwGLWt8J1IkWhsqOGVCae2PUkDLt5up2jRoKnBAE0h7knYaefzwcMuWA3lDtl0wKTCcLi_q3jBPOh76l9BCYp1mrkHSVOi59jp0zthGQ7-gpFXM_Jzm6meqFyT3W9pIcO2-Xfpw93j9ha9Nd0tkUgxY4buPfWqq0YlLt0dc40P5PaXrKhRFg1shahv4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Retail - ATAC by Auchan]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5e3Rprv7PRpJldNmWxlt3bKVzChHCZ4sD64zA9suNBoJCRdOqbW7E9oCiHmSWWWwGLWt8J1IkWhsqOGVCae2PUkDLt5up2jRoKnBAE0h7knYaefzwcMuWA3lDtl0wKTCcLi_q3jBPOh76l9BCYp1mrkHSVOi59jp0zthGQ7-gpFXM_Jzm6meqFyT3W9pIcO2-Xfpw93j9ha9Nd0tkUgxY4buPfWqq0YlLt0dc40P5PaXrKhRFg1shahv4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            21.9627483,47.0277403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GV Tower</name>
+        <description>Office</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            26.0889226,44.4644844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Craiova Industrial Park</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ctoalEbDHp2SkXNsepsc9lzIbcdNd4jjVnly5B13FrKV6y2LjItAPAJushtzaE7FXuAZcPxN8IkLEqrmgsrPKuf4wxwDwrbTz9xDAq2_i4CRP7iqVkWNSCQUyVKwC-gRefz4aBm-mbgmhG4-yQ_bCUuTrPjrfyS_vddZQemQbnkcS_lFnLv7lOAHavgi-fWOrB9une-at7O1vao5RklRumw_UZW8PbBypsAoHvDXNhpPtaZaYVHx4ApY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Industrial - Diehl Aviation Faciltiy]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ctoalEbDHp2SkXNsepsc9lzIbcdNd4jjVnly5B13FrKV6y2LjItAPAJushtzaE7FXuAZcPxN8IkLEqrmgsrPKuf4wxwDwrbTz9xDAq2_i4CRP7iqVkWNSCQUyVKwC-gRefz4aBm-mbgmhG4-yQ_bCUuTrPjrfyS_vddZQemQbnkcS_lFnLv7lOAHavgi-fWOrB9une-at7O1vao5RklRumw_UZW8PbBypsAoHvDXNhpPtaZaYVHx4ApY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            23.6926204,44.4282643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
