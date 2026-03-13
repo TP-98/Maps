@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GV assets</name>
+    <description/>
+    <NetworkLink>
+      <name>GV assets</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1UZjuVO3wMDx4_yQm75tnuy3kpwFVe44]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
