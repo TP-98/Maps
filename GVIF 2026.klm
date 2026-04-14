@@ -42,18 +42,8 @@
     <Folder>
       <name>Layer 1</name>
       <Placemark>
-        <name>Bratianu Business Center</name>
-        <description>Office</description>
-        <styleUrl>#icon-1899-DB4436</styleUrl>
-        <Point>
-          <coordinates>
-            26.1029338,44.4335063,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Corner Office Building</name>
-        <description>Office</description>
+        <description>Office Building</description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <Point>
           <coordinates>
@@ -72,32 +62,42 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>GV Tower</name>
-        <description>Office</description>
+        <name>Bratianu Business Center</name>
+        <description>Office Building</description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <Point>
           <coordinates>
-            26.0889226,44.4644844,0
+            26.1028692,44.4335404,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Craiova Business Park</name>
-        <description>Industrial - Diehl Aviation Faciltiy</description>
+        <description>Industrial Facility</description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <Point>
           <coordinates>
-            23.6926204,44.4282643,0
+            23.6929703,44.4279174,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Oradea Retail Park</name>
-        <description>Retail - ATAC by Auchan</description>
+        <description>Retail</description>
         <styleUrl>#icon-1899-DB4436</styleUrl>
         <Point>
           <coordinates>
-            21.9627483,47.0277403,0
+            21.9625504,47.0278964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Global Vision Tower</name>
+        <description>Office Building</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            26.088847,44.4644959,0
           </coordinates>
         </Point>
       </Placemark>
